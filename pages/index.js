@@ -22,6 +22,9 @@ export default function Home() {
         <p className={styles.description}>
           Built on SKALE blockchain.
         </p>
+        <p className={styles.description}>
+          Check our GitHub <a href='https://github.com/blockkart00'>here</a>.
+        </p>
       </main>
 
       <footer className={styles.footer}>
