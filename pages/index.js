@@ -17,7 +17,10 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Next Gen decentralized ecommerce platform.
+          Next generation decentralized ecommerce platform.
+        </p>
+        <p className={styles.description}>
+          Built on SKALE blockchain.
         </p>
       </main>
 

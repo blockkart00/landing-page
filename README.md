@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# landing-page
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0575181c-15bb-43e3-99ee-4814af3f85c4/deploy-status)](https://app.netlify.com/sites/blockkart/deploys)
+
+This website contains information of blockkart. Please refer to other repositories for code.
 
 ## Getting Started
 
